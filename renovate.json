@@ -22,7 +22,7 @@
       "enabled": true
     },
     {
-      "matchPackagePatterns": ["^(?!@elastic/charts).+$"],
+      "matchPackagePatterns": ["^(?!@elastic\\/charts).+$"],
       "enabled": false
     }
   ]
