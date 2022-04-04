@@ -1,0 +1,13 @@
+{
+  "name": "eui-renovate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "@cypress/react": "^5.10.3",
+    "@elastic/charts": "41.0.1"
+  }
+}
