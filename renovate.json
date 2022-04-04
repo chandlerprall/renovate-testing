@@ -22,7 +22,8 @@
       "enabled": true
     },
     {
-      "matchPackagePatterns": ["^(?!@elastic\\/charts).+$"],
+      "matchPackagePatterns": ["*"],
+      "excludePackagePatterns": ["^@elastic/charts$"],
       "enabled": false
     }
   ]
